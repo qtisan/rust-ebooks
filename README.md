@@ -29,4 +29,4 @@ The books free on the web for rust language.
 * [rustcc/awesome-rust](https://github.com/rustcc/awesome-rust) Rust框架、库和资源的汇总, Rust中文社区
 * [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) A curated list of replacements for existing software written in Rust
 * [rust-boom/rust-boom](https://github.com/rust-boom/rust-boom) rust awesome（资源）. 💥
-* [awesome-rust-com/awesome-rust](https://github.com/awesome-rust-com/awesome-rust) Awesome Rust [](awesome-rust.com)
+* [awesome-rust-com/awesome-rust](https://github.com/awesome-rust-com/awesome-rust) Awesome Rust [awesome-rust.com](awesome-rust.com)
